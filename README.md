@@ -9,7 +9,7 @@ I am the creator of the NTL programming language (you can see it on my profile),
 I work on GitHub with programming languages.
 
 Language I know best: Node.js
-Others: Python, Lua, Rust...
+Others: Python, Lua, rust...
 
 <br><p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,js,python,lua,rust" />
