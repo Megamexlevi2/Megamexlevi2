@@ -12,7 +12,7 @@ Language I know best: Node.js
 Others: Python, Lua, go...
 
 <br><p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,python,lua,rust" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,lua,go" />
 </p><p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Megamexlevi2&show_icons=true&theme=tokyonight" />
 </p><p align="left">
