@@ -34,5 +34,5 @@ Others: Python, Lua, go...
 # Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python,lua,go,cpp,zig,git,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,lua,go,cpp,zig,git,linux,bash,vscode" />
 </p>
