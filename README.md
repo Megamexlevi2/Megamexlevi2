@@ -7,6 +7,8 @@ I'm a developer focused on programming languages, compilers, runtimes, and low-l
 
 I also work with reverse engineering, but that's mostly outside GitHub. Here, I focus on building languages and the infrastructure behind them.
 
+OpenSecurityTraining2
+
 My main language is C++, which is also the language I've studied the most. I also work extensively with Go, especially for Lunex, and JavaScript/Node.js, which powers NTL-lang.
 
 I like understanding software from the inside out — from syntax and parsers to runtimes, compilers, memory, and low-level behavior.
